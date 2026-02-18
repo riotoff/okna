@@ -1,2 +1,0 @@
-# okna
-Tiling WM
